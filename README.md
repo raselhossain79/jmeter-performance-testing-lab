@@ -233,12 +233,10 @@ Unauthorized load testing can be considered a **Denial of Service (DoS) attack**
 <div align="center">
 
 **Rasel Hossain**
-Cybersecurity Enthusiast | Penetration Testing Intern
+Cybersecurity Enthusiast | Penetration Tester
 
 [![GitHub](https://img.shields.io/badge/GitHub-raselhossain79-181717?style=for-the-badge&logo=github)](https://github.com/raselhossain79)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-theloser-212C42?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/theloser)
-
-*Currently learning Web Application Security @ Creative IT Institute, Dhaka*
 
 </div>
 
